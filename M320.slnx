@@ -1,5 +1,19 @@
 <Solution>
+  <Project Path="../Lidl/Lidl/Lidl.csproj" />
+  <Project Path="../uebung_fussballmannschafft/uebung_fussballmannschafft/uebung_fussballmannschaft.csproj" />
+  <Project Path="../Vererbung/Vererbung/Vererbung_3.csproj" />
+  <Project Path="../Vererbung/Vererbung_4/Vererbung_4.csproj" />
+  <Project Path="../Vererbung/Vererbung_5/Vererbung_5.csproj" />
+  <Project Path="Beispiel 2/Beispiel 2.csproj" Id="84f0c867-d8a6-49bd-a075-41382d4a6819" />
+  <Project Path="Beispiel 3/Beispiel 3.csproj" Id="16c22d0c-1e57-4ac3-abc6-550a0bc32087" />
+  <Project Path="Beispiel 4/Beispiel 4.csproj" Id="5c630320-e882-4b50-9901-2918746945a8" />
+  <Project Path="Binäre Assoziation/Binäre Assoziation.csproj" Id="76ef1c41-e4af-487a-83aa-df7c4a4e270a" />
+  <Project Path="ClassDemo/ClassDemo.csproj" Id="d0afac20-5c7b-43b1-9d6f-d2de02be8004" />
+  <Project Path="Fussball/Fussball.csproj" Id="cc1ad693-1f0c-4a95-b054-099a3e2786ae" />
+  <Project Path="Hausaufgaben/Hausaufgaben.csproj" Id="8501ac6f-3c77-4dbb-bea9-70f2cbef610f" />
   <Project Path="HelloWorld/HelloWorld.csproj" />
   <Project Path="Minesweeper/Minesweeper.csproj" />
   <Project Path="MyMath/MyMath.csproj" />
+  <Project Path="Müdigkeit/Müdigkeit.csproj" Id="befabbef-55f7-44b3-aee7-a4296af542b4" />
+  <Project Path="RepArray/RepArray.csproj" Id="17d66b92-6b98-47bc-895e-747b00f8e2ba" />
 </Solution>
