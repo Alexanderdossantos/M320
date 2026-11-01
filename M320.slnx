@@ -1,5 +1,7 @@
 <Solution>
+  <Project Path="../AlarmWorkshop/AlarmWorkshop/AlarmWorkshop.csproj" />
   <Project Path="../Lidl/Lidl/Lidl.csproj" />
+  <Project Path="../MyCalculator/MyCalculator/MyCalculator.csproj" />
   <Project Path="../uebung_fussballmannschafft/uebung_fussballmannschafft/uebung_fussballmannschaft.csproj" />
   <Project Path="../Vererbung/Vererbung/Vererbung_3.csproj" />
   <Project Path="../Vererbung/Vererbung_4/Vererbung_4.csproj" />
@@ -13,6 +15,7 @@
   <Project Path="Hausaufgaben/Hausaufgaben.csproj" Id="8501ac6f-3c77-4dbb-bea9-70f2cbef610f" />
   <Project Path="HelloWorld/HelloWorld.csproj" />
   <Project Path="Minesweeper/Minesweeper.csproj" />
+  <Project Path="MyCalculator.Test/MyCalculator.Test.csproj" Id="2fd06fa5-1198-434c-85dd-1c3ec1e14b48" />
   <Project Path="MyMath/MyMath.csproj" />
   <Project Path="Müdigkeit/Müdigkeit.csproj" Id="befabbef-55f7-44b3-aee7-a4296af542b4" />
   <Project Path="RepArray/RepArray.csproj" Id="17d66b92-6b98-47bc-895e-747b00f8e2ba" />
