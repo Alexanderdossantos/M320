@@ -6,6 +6,7 @@
   <Project Path="../Vererbung/Vererbung/Vererbung_3.csproj" />
   <Project Path="../Vererbung/Vererbung_4/Vererbung_4.csproj" />
   <Project Path="../Vererbung/Vererbung_5/Vererbung_5.csproj" />
+  <Project Path="AlarmWorkshop.Tests/AlarmWorkshop.Tests.csproj" Id="80d7e328-1d06-4819-9fda-d24026ffa4a6" />
   <Project Path="Beispiel 2/Beispiel 2.csproj" Id="84f0c867-d8a6-49bd-a075-41382d4a6819" />
   <Project Path="Beispiel 3/Beispiel 3.csproj" Id="16c22d0c-1e57-4ac3-abc6-550a0bc32087" />
   <Project Path="Beispiel 4/Beispiel 4.csproj" Id="5c630320-e882-4b50-9901-2918746945a8" />
@@ -19,4 +20,6 @@
   <Project Path="MyMath/MyMath.csproj" />
   <Project Path="Müdigkeit/Müdigkeit.csproj" Id="befabbef-55f7-44b3-aee7-a4296af542b4" />
   <Project Path="RepArray/RepArray.csproj" Id="17d66b92-6b98-47bc-895e-747b00f8e2ba" />
+  <Project Path="WasserfassTests/WasserfassTests.csproj" Id="8bd338da-973b-4b5a-b9b5-9f0a711be942" />
+  <Project Path="Wassserfass/Wassserfass.csproj" Id="aa74e87c-a023-4056-b2c1-aac4affa24a0" />
 </Solution>
